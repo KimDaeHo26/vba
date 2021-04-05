@@ -1,5 +1,5 @@
 
-# 기초.1. 매크로처음사용.xlsm
+# [기초.1. 매크로처음사용.xlsm](https://github.com/kym1088/repository_public/raw/master/repository.nightrain_v18_public.zip)
   ## [개발도구 메뉴 표시]
   * 1. [Office 단추] - [Excel 옵션]을 클릭
   * 2. [Excel 옵션] 대화 상자가 나타나면 [기본 설정] 항목의 [리본 메뉴에 개발 도구 탭 표시]를 선택하여 체크 표시한 후 [확인]을 클릭
