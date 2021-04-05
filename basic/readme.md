@@ -1,5 +1,5 @@
 
-# [기초.1. 매크로처음사용.xlsm](https://github.com/kym1088/repository_public/raw/master/repository.nightrain_v18_public.zip)
+# [기초.1. 매크로처음사용.xlsm](https://github.com/KimDaeHo26/vba/raw/main/basic/%EA%B8%B0%EC%B4%88.1.%20%EB%A7%A4%ED%81%AC%EB%A1%9C%EC%B2%98%EC%9D%8C%EC%82%AC%EC%9A%A9.xlsm)
   ## [개발도구 메뉴 표시]
   * 1. [Office 단추] - [Excel 옵션]을 클릭
   * 2. [Excel 옵션] 대화 상자가 나타나면 [기본 설정] 항목의 [리본 메뉴에 개발 도구 탭 표시]를 선택하여 체크 표시한 후 [확인]을 클릭
@@ -25,7 +25,7 @@
   * 3. 값 확인 하고 싶은 [변수] 마우스 우클릭 - [조사식 추가]
   * 4. 아래 조사식 부분에서 값 확인 가능
  
-# 기초.2. WORKBOOK이벤트.xlsm
+# [기초.2. WORKBOOK이벤트.xlsm](https://github.com/KimDaeHo26/vba/raw/main/basic/%EA%B8%B0%EC%B4%88.2.%20WORKBOOK%EC%9D%B4%EB%B2%A4%ED%8A%B8.xlsm)
   ## [워크북이벤트]
   * 1. [ThisWorkbook]더블클릭-[개체] Workbook 선택, [프로시저] Open 선택
   * 2. 프로시저 내에 코딩
@@ -40,7 +40,7 @@
   * 3. [Sheet(N)] 시트가 활성화 되면 메시지가 표시됨
   * 4. 이벤트 설명은 도움말 참고
 
-# 기초.3. 프로시저및에러처리.xlsm
+# [기초.3. 프로시저및에러처리.xlsm](https://github.com/KimDaeHo26/vba/raw/main/basic/%EA%B8%B0%EC%B4%88.3.%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80%EB%B0%8F%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.xlsm)
   ## [프로시저]
   * ByVal, ByRef 개념
   * sub에서 function 호출
@@ -51,7 +51,7 @@
   * 에러가 나도 다음 계속 진행 : On Error Resume Next
   * 지정된 행으로 무조건 분기 : GoTo line
 
-# 기초.4. 복사.xlsm
+# [기초.4. 복사.xlsm](https://github.com/KimDaeHo26/vba/raw/main/basic/%EA%B8%B0%EC%B4%88.4.%20%EB%B3%B5%EC%82%AC.xlsm)
   ## [복사]
   * 셀복사 capy, paste
   * 셀복사 value = value
@@ -62,7 +62,7 @@
   ## [이름관리자사용]
   * 셀주소 대신 이름 사용
 
-# 기초.5. 시트암호걸기.xlsm
+# [기초.5. 시트암호걸기.xlsm](https://github.com/KimDaeHo26/vba/raw/main/basic/%EA%B8%B0%EC%B4%88.5.%20%EC%8B%9C%ED%8A%B8%EC%95%94%ED%98%B8%EA%B1%B8%EA%B8%B0.xlsm)
   ## [시트암호]
   * 시트암호걸어 특정 셀만 수정가능하게 처리
  
