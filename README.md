@@ -1,11 +1,11 @@
-# 기초
+# [기초](https://github.com/KimDaeHo26/vba/tree/main/basic)
   * 기초.1. 매크로처음사용
   * 기초.2. WORKBOOK이벤트
   * 기초.3. 프로시저및에러처리
   * 기초.4. 복사
   * 기초.5. 시트암호걸기
 
-# 심화
+# [심화](https://github.com/KimDaeHo26/vba/tree/main/deep)
   * 심화.1. word파일생성
   * 심화.2. 자주사용되는설정
   * 심화.3. DB 활용
@@ -13,7 +13,7 @@
   * 심화.4. vba에서 엑셀함수 사용
   * 심화.5. 간트차트생성
 
-# 활용
+# [활용](https://github.com/KimDaeHo26/vba/tree/main/uses)
   * 활용.1. 목록시트에모든시트링크자동걸기
   * 활용.2. 여러엑셀파일합치기
   * 활용.3. 도스명령어실행시키기
